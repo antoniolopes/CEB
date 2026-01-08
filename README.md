@@ -2,9 +2,9 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmmb/CEB/blob/main/index.ipynb)
 
 ## Iscte - Instituto Universitário de Lisboa
-#### CECE: Computação para Economia e Ciências Empresariais (03875)
+#### CECE: Computação para Economia e Ciências Empresariais (03875) - 2025/2026 (2<sup>nd</sup> Semester)
 
-Please send any comments or feedback to `fernando.batista@iscte-iul.pt`
+Please send any comments or feedback to `antonio.luis@iscte-iul.pt`
 
 ----
 
@@ -51,7 +51,7 @@ For additional information about these subjects, please read the book [Python Da
 
 ### Warning
 
-The contents of this folder are periodically updated, which reset your changes and delet any file that you may have added. So, don't put your files here, put them in any other directory inside your home directory.
+The contents of this folder are periodically updated, which reset your changes and delete any file that you may have added. So, don't put your files here, put them in any other directory inside your home directory.
 
 ### Addicional resources
  - [Pandas Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
